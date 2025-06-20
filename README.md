@@ -1,1 +1,2 @@
 # MalJPEG-detection-of-malicious-images
+This mini-project focuses on detecting 🖼️ malicious JPEG images using machine learning techniques. A custom dataset was created with ✅ benign and ⚠️ malicious images, and important static features like entropy, quantization tables, and steganographic patterns were extracted. Models such as Random Forest and SVM were trained to classify the images. The project was developed in Google Colab using Python, Pandas, and Scikit-learn, aiming for a fast, lightweight, and practical solution for image-based threat detection. 🚀
